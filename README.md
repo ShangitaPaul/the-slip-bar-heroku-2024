@@ -1,2 +1,4 @@
-# the-slip-bar-heroku-2024
-The Slip Bar and Eatery 2024
+# the-slip-bar-production-2024
+The Slip Bar &amp; Eatery website
+
+No backend
